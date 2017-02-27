@@ -1,0 +1,8 @@
+dijkstra\Util.class
+dijkstra\io\FileInputReaderTest.class
+dijkstra\graph\NodeTest.class
+dijkstra\graph\TreeTraverserTest.class
+dijkstra\graph\criteria\LevelCriteriaTest.class
+dijkstra\graph\criteria\WeightCriteriaTest.class
+dijkstra\graph\NodePathTest.class
+dijkstra\graph\TreeTest.class

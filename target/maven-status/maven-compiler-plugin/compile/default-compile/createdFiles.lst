@@ -1,0 +1,15 @@
+dijkstra\graph\TreeTraverser.class
+dijkstra\io\OutputWriter.class
+dijkstra\RoutesFinder.class
+dijkstra\graph\criteria\Criteria.class
+dijkstra\io\FileInputReader.class
+dijkstra\Main.class
+dijkstra\graph\Node.class
+dijkstra\graph\NodePath.class
+dijkstra\graph\NodePaths.class
+dijkstra\graph\criteria\LevelCriteria.class
+dijkstra\io\ConsoleOutputWriter.class
+dijkstra\graph\Tree.class
+dijkstra\io\InputReader.class
+dijkstra\graph\criteria\WeightCriteria.class
+dijkstra\RoutesBuilder.class
